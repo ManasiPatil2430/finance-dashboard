@@ -1,24 +1,43 @@
+
 # Finance Dashboard
 
-A simple finance dashboard built using React and Tailwind CSS.
+I built this finance dashboard to practice React and improve my frontend development skills. This project helps users track their income and expenses in a simple and clean interface.
 
-## Features:
-- Track income and expenses
-- Display balance summary
-- Search/filter transactions
-- Clean and responsive UI
+## What this project does
 
-## Tech Stack:
-- React (Vite)
-- Tailwind CSS
-- JavaScript
+This dashboard allows users to:
 
-## How to Run:
-1. Install dependencies:
-   npm install
+* Add and view income and expense transactions
+* See a quick summary of balance
+* Search and filter transactions easily
 
-2. Run project:
-   npm run dev
+## Tech used
 
-3. Open in browser:
-   http://localhost:5173
+I used:
+
+* React (with Vite) for building UI
+* Tailwind CSS for styling
+* JavaScript for logic
+
+## Live Project
+
+You can check the live version here:
+https://your-vercel-link
+
+## What I learned
+
+While building this project, I learned:
+
+* How to structure a React project properly
+* How to use Tailwind CSS for styling
+* How to manage state and display dynamic data
+
+## Future improvements
+
+* Add charts/graphs for better visualization
+* Add login/authentication
+* Store data in database
+
+## Author
+
+Manasi Patil
